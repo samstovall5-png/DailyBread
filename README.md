@@ -68,3 +68,7 @@ Example:
 GitHub Pages is a static host and does not include a private database or secure admin panel. The included form opens the visitor's email app with all event information filled in. This lets Momma Jo review submissions before manually adding approved events to `data.js`.
 
 For automatic form storage later, connect the form to Formspree, Basin, Netlify Forms, or a small backend service.
+
+
+## GitHub Pages file layout
+Upload every file directly to the repository root. The logo is referenced as `./logo.jpg`, so no folders are required.
